@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-JaggedArrays", "05-Jagge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-ConsultandoCollections", "06-ConsultandoCollections\06-ConsultandoCollections.csproj", "{84D869C9-1065-4748-A023-B6454874DA9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-OutrosOperadoresLINQ", "07-OutrosOperadoresLINQ\07-OutrosOperadoresLINQ.csproj", "{814019AC-C3EA-4AF5-B58E-E874F05243B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-OutrosOperadoresLINQ", "07-OutrosOperadoresLINQ\07-OutrosOperadoresLINQ.csproj", "{814019AC-C3EA-4AF5-B58E-E874F05243B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-OperadoresDeConjuntos", "OperadoresDeConjuntos\08-OperadoresDeConjuntos.csproj", "{133C6115-2223-464B-B5E6-963337A5FDD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{814019AC-C3EA-4AF5-B58E-E874F05243B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{814019AC-C3EA-4AF5-B58E-E874F05243B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{814019AC-C3EA-4AF5-B58E-E874F05243B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{133C6115-2223-464B-B5E6-963337A5FDD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133C6115-2223-464B-B5E6-963337A5FDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133C6115-2223-464B-B5E6-963337A5FDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133C6115-2223-464B-B5E6-963337A5FDD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
