@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-ConsultandoCollections",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-OutrosOperadoresLINQ", "07-OutrosOperadoresLINQ\07-OutrosOperadoresLINQ.csproj", "{814019AC-C3EA-4AF5-B58E-E874F05243B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-OperadoresDeConjuntos", "OperadoresDeConjuntos\08-OperadoresDeConjuntos.csproj", "{133C6115-2223-464B-B5E6-963337A5FDD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-OperadoresDeConjuntos", "OperadoresDeConjuntos\08-OperadoresDeConjuntos.csproj", "{133C6115-2223-464B-B5E6-963337A5FDD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Covariancia", "09-Covariancia\09-Covariancia.csproj", "{DBDDCC84-B4B3-497B-8A17-51C1534D9311}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{133C6115-2223-464B-B5E6-963337A5FDD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{133C6115-2223-464B-B5E6-963337A5FDD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{133C6115-2223-464B-B5E6-963337A5FDD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDDCC84-B4B3-497B-8A17-51C1534D9311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDDCC84-B4B3-497B-8A17-51C1534D9311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDDCC84-B4B3-497B-8A17-51C1534D9311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDDCC84-B4B3-497B-8A17-51C1534D9311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
